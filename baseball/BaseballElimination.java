@@ -1,6 +1,4 @@
 import java.util.HashMap;
-//need to run 'isTeam' for inputs
-
 
 public class BaseballElimination {
     private final int N; // # of teams
